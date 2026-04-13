@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <atom:link href="https://script.google.com/macros/s/AKfycbyedWq9A_s47UK61a7oFr2e-GCm7rXy9nugl0XIQWoM/dev/deezer/feed/3519247" rel="self" type="application/rss+xml" />
     <title>Contos e Outras Histórias</title>
+    <podcast:guid>e9d1d7fa-5002-b328-126e-32e257519062</podcast:guid>
     <description>Você que gosta de viajar por mares bravios com piratas e marinheiros! desbravar mundos desconhecidos, enfrentar guerras intergalácticas, se assustar com contos de terror ou descobrir pequenas história não contadas sobre a vida o universo e tudo mais! venha conhecer o contos e outras historias! um podcast de audiodrama e storytelling mensal, contando com muitas historias originais e adaptadas para você ouvir e se divertir onde quiser!</description>
     <link>https://www.deezer.com/show/3519247</link>
     <language>pt-BR</language>
