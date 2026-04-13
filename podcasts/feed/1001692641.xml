@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <atom:link href="https://script.google.com/macros/s/AKfycbyedWq9A_s47UK61a7oFr2e-GCm7rXy9nugl0XIQWoM/dev/deezer/feed/1001692641" rel="self" type="application/rss+xml" />
     <title>Café da Manhã</title>
+    <podcast:guid>0e1557ba-50ca-4899-a024-975ada2be354</podcast:guid>
     <description>Levante da cama com notícias e análises quentinhas no Café da Manhã, o podcast mais importante do seu dia. Em uma parceria entre Folha de S.Paulo e Spotify, os jornalistas Magê Flores, Gabriela Mayer e Gustavo Simon trazem nas manhãs de segunda a sexta, de forma leve e simples, o fundamental sobre os assuntos do momento no Brasil e no mundo.</description>
     <link>https://www.deezer.com/show/1001692641</link>
     <language>pt-BR</language>
