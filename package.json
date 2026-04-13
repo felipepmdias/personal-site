@@ -1,0 +1,12 @@
+{
+  "name": "personal-site",
+  "version": "1.0.0",
+  "description": "Felipe Pimentel Machado Dias - Personal Site",
+  "main": "index.html",
+  "scripts": {
+    "push": "git add . && git commit -m \"[update]: atualizações no site\" && git push origin main",
+    "deploy": "npm run push"
+  },
+  "author": "Felipe Pimentel Machado Dias",
+  "license": "ISC"
+}
