@@ -8,6 +8,10 @@
     ],
     "rewrites": [
       {
+        "source": "/podcasts/feed/:id",
+        "destination": "/podcasts/feed/:id.xml"
+      },
+      {
         "source": "**",
         "destination": "/index.html"
       }
