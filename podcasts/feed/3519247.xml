@@ -6,22 +6,22 @@
      xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <atom:link href="https://script.google.com/macros/s/AKfycbyedWq9A_s47UK61a7oFr2e-GCm7rXy9nugl0XIQWoM/dev/deezer/feed/3519247" rel="self" type="application/rss+xml" />
-    <title></title>
-    <description></description>
-    <link></link>
+    <title>Contos e Outras Histórias</title>
+    <description>Você que gosta de viajar por mares bravios com piratas e marinheiros! desbravar mundos desconhecidos, enfrentar guerras intergalácticas, se assustar com contos de terror ou descobrir pequenas história não contadas sobre a vida o universo e tudo mais! venha conhecer o contos e outras historias! um podcast de audiodrama e storytelling mensal, contando com muitas historias originais e adaptadas para você ouvir e se divertir onde quiser!</description>
+    <link>https://www.deezer.com/show/3519247</link>
     <language>pt-BR</language>
-    <itunes:author></itunes:author>
+    <itunes:author>Pedro Araujo</itunes:author>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href=""/>
+    <itunes:image href="https://e-cdns-images.dzcdn.net/images/talk/b334c58a96836097fefef684dc01f219/1000x1000-000000-80-0-0.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Podcast"/>
     <itunes:owner>
-      <itunes:name></itunes:name>
+      <itunes:name>Pedro Araujo</itunes:name>
     </itunes:owner>
     <image>
-      <url></url>
-      <title></title>
-      <link></link>
+      <url>https://e-cdns-images.dzcdn.net/images/talk/b334c58a96836097fefef684dc01f219/1000x1000-000000-80-0-0.jpg</url>
+      <title>Contos e Outras Histórias</title>
+      <link>https://www.deezer.com/show/3519247</link>
     </image>
 
     <item>
