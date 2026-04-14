@@ -6,7 +6,7 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <atom:link href="https://script.google.com/macros/s/AKfycbyedWq9A_s47UK61a7oFr2e-GCm7rXy9nugl0XIQWoM/dev/deezer/feed/2435332" rel="self" type="application/rss+xml" />
+    <atom:link href="https://felipepmdias.com.br/podcasts/feed/2435332.xml" rel="self" type="application/rss+xml" />
     <title>Contos de terror</title>
     <podcast:guid>4eadbbc5-b76a-b6c1-2fb8-d9fb10cda50f</podcast:guid>
     <description>Série com contos de terror narrados em primeira pessoa. Sinta o medo da vítima como nunca sentiu antes.</description>
