@@ -6,7 +6,7 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <atom:link href="https://script.google.com/macros/s/AKfycbyedWq9A_s47UK61a7oFr2e-GCm7rXy9nugl0XIQWoM/dev/deezer/feed/1001692661" rel="self" type="application/rss+xml" />
+    <atom:link href="https://felipepmdias.com.br/podcasts/feed/1001692661.xml" rel="self" type="application/rss+xml" />
     <title>Mano a Mano</title>
     <podcast:guid>190aa7c7-a0a1-6237-3515-bfbfb4c4adfe</podcast:guid>
     <description>Salve, rapa! Salve, massa! Mano Brown vem para ampliar a visão e o debate trazendo diversidade de ideias e pensamentos com profundidade e respeito. Se prepare para ouvir assuntos importantes, interessantes, relatos inéditos e controversos com convidados amados ou odiados - você decide! Todas as quintas-feiras já estão reservadas para esse papo no melhor estilo Mano a Mano, um Original Spotify.</description>
