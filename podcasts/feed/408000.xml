@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <atom:link href="https://felipepmdias.com.br/podcasts/feed/408000.xml" rel="self" type="application/rss+xml" />
+    <title>Sertões: histórias de Canudos</title>
+    <podcast:guid>b4deb64d-0493-3346-269d-86e5194cde71</podcast:guid>
+    <description>No final do século 19, o exército matou todos os habitantes do povoado de Canudos, na Bahia, inclusive o líder, Antônio Conselheiro. Em 1902, em &quot;Os sertões&quot;, Euclides da Cunha chamou a ação de &quot;crime&quot;. A obra se tornou uma das mais importantes da literatura brasileira. As histórias da guerra, do livro e do autor são contadas nesta série, que tem concepção, roteiro e apresentação do jornalista Guilherme Freitas. Ele entrevista estudiosos, artistas e um canudense, morador da região. Trechos de &quot;Os sertões&quot; são lidos pelo ator Fernando Alves Pinto.</description>
+    <link>https://api.radiobatuta.com.br/podcasts/sertoes-historias-de-canudos/</link>
+    <language>pt-BR</language>
+    <itunes:author>Rádio Batuta</itunes:author>
+    <itunes:block>no</itunes:block>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://cdn.radiobatuta.com.br/wp-content/uploads/2021/10/SERTOES_formato_PODCAST_1400x1400.png"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Podcast"/>
+    <itunes:owner>
+      <itunes:name>Rádio Batuta</itunes:name>
+    </itunes:owner>
+    <image>
+      <url>https://cdn.radiobatuta.com.br/wp-content/uploads/2021/10/SERTOES_formato_PODCAST_1400x1400.png</url>
+      <title>Sertões: histórias de Canudos</title>
+      <link>https://api.radiobatuta.com.br/podcasts/sertoes-historias-de-canudos/</link>
+    </image>
+
+    <item>
+      <title>Episódio 4 – Ecos de Euclides</title>
+      <description>Euclides da Cunha é o autor homenageado em 2019 na Flip (Festa Literária Internacional de Paraty), 110 anos depois de sua morte. A escolha traduz o interesse que sua obra continua despertando. Dois artistas que têm especial relação com Os sertões, o diretor teatral José Celso Martinez Corrêa e o escritor Milton Hatoum, avaliam o que o livro ainda pode nos dizer sobre o Brasil de hoje. Entrevistados: José Celso Martinez Corrêa, diretor teatral, encenou em 2002 uma adaptação de Os sertões com o Teatro Oficina; Milton Hatoum, romancista, autor de ensaios sobre Euclides, um deles incluído na edição dos Cadernos de Literatura Brasileira (IMS) dedicada ao escritor. Imagem do episódio:  Foto do livro “Sertões: luz &amp; trevas” (1982), de Maureen Bisilliat/Acervo IMS</description>
+      <itunes:summary></itunes:summary>
+      <pubDate>Wed, 03 Jul 2019 21:28:22 GMT</pubDate>
+      <guid isPermaLink="false">a1e47377-8598-54fd-e8ad-c2aebd184334</guid>
+      <link>https://api.radiobatuta.com.br/podcast/episodio-4-ecos-de-euclides/</link>
+      <enclosure url="https://api.radiobatuta.com.br/wp-content/uploads/2019/07/pod_sertoes_episodio4.mp3" length="2087" type="audio/mpeg"/>
+      <itunes:duration>34:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.radiobatuta.com.br/wp-content/uploads/2019/07/pod_sertoes_episodio4_maureenbisilliat-600x429-1.jpeg"/>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>Episódio 5 – Canudos é aqui</title>
+      <description>O último episódio da série entra na Canudos de hoje. A presença da guerra e do livro de Euclides da Cunha no imaginário e no cotidiano da região são os temas das conversas com o historiador João Batista e o músico Fábio Paes. Entrevistados: Fábio Paes, pesquisador, músico e professor da Universidade Católica de Salvador, autor do disco Canudos e cantos do sertão (1992); João Batista, pesquisador e guia no Parque Estadual de Canudos. Imagem do episódio: Ruínas de Canudos submersas no açude de Cocorobó, nos anos 1990. Foto de Evandro Teixeira</description>
+      <itunes:summary></itunes:summary>
+      <pubDate>Wed, 03 Jul 2019 21:27:58 GMT</pubDate>
+      <guid isPermaLink="false">77061340-9e5d-4a98-4fa0-1e700ae68925</guid>
+      <link>https://api.radiobatuta.com.br/podcast/episodio-5-canudos-e-aqui/</link>
+      <enclosure url="https://api.radiobatuta.com.br/wp-content/uploads/2019/07/pod_sertoes_episodio5.mp3" length="1476" type="audio/mpeg"/>
+      <itunes:duration>24:36</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.radiobatuta.com.br/wp-content/uploads/2019/07/pod_sertoes_episodio5_evandro-teixeira-600x428-1.jpeg"/>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>Episódio 3 – Visões do sertão</title>
+      <description>Desde Flávio de Barros, autor das únicas imagens conhecidas da guerra, Canudos fascina fotógrafos das mais diversas origens. Entre 1967 e 1972, Maureen Bisilliat, inglesa radicada no Brasil, percorreu o Nordeste. Voltou com uma obra hoje clássica, Sertão: luz &amp; trevas. Nos anos 1990, o baiano Evandro Teixeira mergulhou na região para um livro sobre o centenário do conflito. Entrevistados: Sergio Burgi, coordenador de Fotografia do IMS; Maureen Bisilliat, fotógrafa, autora de Sertões: luz &amp; trevas (1982), inspirado na obra de Euclides; Evandro Teixeira, fotógrafo e autor do livro Canudos: 100 anos (1997) e de outros trabalhos a partir de viagens à região. Imagem do episódio: Cerca de 400 detidos pelo Exército. Todos foram mortos. Flávio de Barros</description>
+      <itunes:summary></itunes:summary>
+      <pubDate>Wed, 03 Jul 2019 21:20:07 GMT</pubDate>
+      <guid isPermaLink="false">98312eef-bf16-0632-0709-cf655063be34</guid>
+      <link>https://api.radiobatuta.com.br/podcast/episodio-3-visoes-do-sertao/</link>
+      <enclosure url="https://api.radiobatuta.com.br/wp-content/uploads/2019/07/pod_sertoes_episodio3.mp3" length="1632" type="audio/mpeg"/>
+      <itunes:duration>27:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.radiobatuta.com.br/wp-content/uploads/2019/07/pod_sertoes_episodio3_flavio_de_barros-600x430-1.jpeg"/>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>Episódio 1 – O livro vingador</title>
+      <description>O jovem engenheiro militar Euclides da Cunha era um entusiasta da República quando, em 1897, tornou-se correspondente de guerra do jornal O Estado de S. Paulo em Canudos. No povoado baiano, Antônio Conselheiro liderava um movimento cristão com ideias monarquistas. A região chegou a ter 25 mil habitantes. Poucos sobreviveram. Em 1902, em Os sertões, Euclides classificou a vitória do Exército como “um crime”. O primeiro episódio da série Sertões: histórias de Canudos discute como o massacre transformou a visão do escritor sobre o Brasil. E como sua obra-prima ajudou a perpetuar Canudos no imaginário nacional. Entrevistados do episódio: Walnice Nogueira Galvão, crítica literária e professora da USP, autora de diversos livros sobre Euclides e organizadora da edição crítica de Os sertões (2016);Francisco Foot Hardman, crítico literário e professor da Unicamp, organizador de Ensaios e inéditos (2019), com textos desconhecidos de Euclides.</description>
+      <itunes:summary></itunes:summary>
+      <pubDate>Tue, 02 Jul 2019 21:31:17 GMT</pubDate>
+      <guid isPermaLink="false">910dd450-8baa-b4de-a897-59fd52f358ff</guid>
+      <link>https://api.radiobatuta.com.br/podcast/episodio-1-o-livro-vingador/</link>
+      <enclosure url="https://api.radiobatuta.com.br/wp-content/uploads/2019/07/pod_sertoes_episodio1.mp3" length="1434" type="audio/mpeg"/>
+      <itunes:duration>23:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://cdn.radiobatuta.com.br/wp-content/uploads/2019/07/pod_sertoes_episodio1_flavio_de_barros-600x429-1.jpeg"/>
+      <itunes:episode>1</itunes:episode>
+    </item>
+    <item>
+      <title>Episódio 2 – A história dos vencidos</title>
+      <description>Durante muito tempo, a história de Canudos foi contada do ponto de vista dos vencedores. Este episódio reconstitui a trajetória de Antônio Conselheiro e a vida no arraial antes do massacre, a partir de conversas com o pesquisador Pedro Lima Vasconcellos e o historiador Manoel Neto. Eles discutem as características do homem do sertão forjadas por Euclides da Cunha. Entrevistados: Pedro Lima Vasconcellos, historiador e professor da Universidade Federal de Alagoas, autor de Antônio Conselheiro por ele mesmo (2017), com textos e sermões do beato; Manoel Neto, historiador, pesquisador do Centro de Estudos Euclides da Cunha, da Universidade Federal da Bahia.</description>
+      <itunes:summary></itunes:summary>
+      <pubDate>Tue, 02 Jul 2019 21:30:44 GMT</pubDate>
+      <guid isPermaLink="false">9fc5a50d-5236-6565-cf85-eff1b243caf0</guid>
+      <link>https://api.radiobatuta.com.br/podcast/episodio-2-a-historia-dos-vencidos/</link>
+      <enclosure url="https://api.radiobatuta.com.br/wp-content/uploads/2019/07/pod_sertoes_episodio2.mp3" length="1736" type="audio/mpeg"/>
+      <itunes:duration>28:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.radiobatuta.com.br/wp-content/uploads/2019/07/pod_sertoes_episodio2_flavio_de_barros-600x429-1.jpeg"/>
+      <itunes:episode>2</itunes:episode>
+    </item>
+  </channel>
+</rss>
